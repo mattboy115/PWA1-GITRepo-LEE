@@ -1,0 +1,19 @@
+Hello, my name is Matt. I am happy to begin Programming for Web Applications. 
+
+1. The best way to contact me is either by AIM (mattboy115) or through the FSO. You can also contact me through my Full Sail email (mclee1@fullsail.edu) but I don't check that as often as the other two. The best time to contact me is at night past 8pm EST.
+
+2. I love a challenge. I tend to do things the hard way on purpose because the way of least resistance is too easy. I speed solve Rubik's Cubes and I'm always looking for ways to do it faster. I'm never happy unless I'm learning something new. That's why I love Web Development. It always present's a challenge to me for me to figure out.
+
+Even before I got serious into development, I had some previous experience. Around 2010 I posted comics to a site called Drunkduck.com and at the time they allowed you to customize your comic viewing pages with html. I seemed to be the only person on the site with any ability to figure out html on my own. Anyway the site doesn't use that function anymore and instead has a page template editor. I was kind of sad about that.
+
+Then last year I got into serious programming with Code Academy and similar sites.
+
+3. One place I've always wanted to work at was the Google location in The Dalles, OR where I used to live. I'm hoping to move back there someday and with my new Development skills I should be qualified at least for an intership. I wasn't qualified for anything before because while I had computer science knowlege I didn't have any documentation. I also have plans to have my own freelance business building sites. 
+
+4. My biggest challenge was getting through Designing for Web Standards I. That instructor's expecations were way too specific.
+
+5. I guess I've already answered the first part of this quetstion. My editor of choice is Sublime Text.
+
+6. Yes I have. I have added DeveloperFia as a collaborator now.
+
+7. I will be dedicating as much time as possible. I have to classes this month. I struggle to get time for classwork as it is but I should still be able to do my work.
