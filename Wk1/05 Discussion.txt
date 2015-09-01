@@ -1,0 +1,5 @@
+1. You have to be a good problem solver because that is all you will experience if you are a programmer. And sometimes solving one problem can lead to 99 more. If problem solving isn't your thing, you probably shouldn't choose this as your profession.
+
+2. The way I see the A and the first D in ADDIO is how I see beginning to design a website. If you try to do them both at once, it's not going to go over well. The planning comes from building the structure first in the html. Then it makes styling and design much easier. Once you've done as much as you can of the deign then it's time to test it out and find out if there are any problems in debugging and testing (rinse and repeat) and optimize as necessary.
+
+3. 
