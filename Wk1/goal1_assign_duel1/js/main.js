@@ -45,7 +45,7 @@
             console.log(result);
 
             //If no winner move to next round
-            if (result==="no winner") {
+            if (result === "no winner") {
                 round++;
                 alert(playerOneName+":"+playerOneHealth+"  *ROUND "+round+" OVER"+"*  "+playerTwoName+":"+playerTwoHealth);
             } 
@@ -54,7 +54,7 @@
             else{
                 alert(result);
                 break;
-            };
+            }
 
 		};
 
@@ -78,7 +78,7 @@
 		//Result for Kratos Dying
 		else if (playerTwoHealth < 1) {
 			result = playerOneName + " WINS!!!";
-		};
+		}
 		return result;
 	
 	};

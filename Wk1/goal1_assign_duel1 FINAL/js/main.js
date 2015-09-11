@@ -46,12 +46,13 @@
             console.log(result);
 
             //If no wiiner
-            if (result==="no winner")
-            {
+            if (result==="no winner") {
                 round++;
                 alert(playerOneName+":"+playerOneHealth+"  *ROUND "+round+" OVER"+"*  "+playerTwoName+":"+playerTwoHealth);
 
-            } else{
+            } 
+
+            else{
                 alert(result);
                 break;
             };
@@ -69,10 +70,13 @@
 
         else if(playerOneHealth<1){
             result =playerTwoName+" WINS!!!";
-        } else if (playerTwoHealth<1) {
+        } 
+
+        else if (playerTwoHealth<1) {
 
             result = playerOneName+" WINS!!!";
-        };
+        }
+
        return result;
     };
 
