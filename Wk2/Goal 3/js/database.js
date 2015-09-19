@@ -12,7 +12,7 @@ var db = [
 	"Scope|http://wddbs.com/javascript/sfw/online/#p=videos&s=1&file=02.html",
 	"Loops|http://wddbs.com/javascript/sfw/online/#p=videos&s=1&file=02.html",
 	"Conditionals|http://wddbs.com/javascript/sfw/online/#p=videos&s=1&file=02.html",
-	"Typeof|http://wddbs.com/javascript/sfw/online/#p=videos&s=1&file=02.html",
+	"Typeof|",
 	"Timers|http://wddbs.com/javascript/sfw/online/#p=videos&s=1&file=02.html",
 	"Native Objects|http://wddbs.com/javascript/sfw/online/#p=videos&s=1&file=02.html",
 	"Debugging Tools|http://wddbs.com/javascript/sfw/online/#p=videos&s=1&file=03.html",
